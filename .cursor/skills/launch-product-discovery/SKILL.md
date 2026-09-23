@@ -1,3 +1,9 @@
+---
+name: launch-product-discovery
+description: Product Discovery Command
+disable-model-invocation: true
+---
+
 # Product Discovery Command
 
 Guide users through structured product idea formation using conditional questionnaires.

@@ -1,3 +1,9 @@
+---
+name: configure-github-issue-script
+description: Configure GitHub Issue Script
+disable-model-invocation: true
+---
+
 # Configure GitHub Issue Script
 
 Helper command to configure `.cursor/scripts/create-github-issue.sh` with project-specific settings.

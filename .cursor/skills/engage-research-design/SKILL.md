@@ -1,3 +1,9 @@
+---
+name: engage-research-design
+description: Engage Research and Design
+disable-model-invocation: true
+---
+
 # Engage Research and Design
 
 This command assesses which specialist agents to engage based on product characteristics from the discovery phase.

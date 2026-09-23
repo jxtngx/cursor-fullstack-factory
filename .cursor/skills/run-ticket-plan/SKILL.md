@@ -1,3 +1,9 @@
+---
+name: run-ticket-plan
+description: Run Ticket Plan
+disable-model-invocation: true
+---
+
 # Run Ticket Plan
 
 Select the next available ticket, validate dependencies, create feature branch, and direct the user to the ticket's plan file for implementation.
